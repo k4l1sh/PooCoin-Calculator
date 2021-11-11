@@ -1,2 +1,3 @@
 # PooCoin-Calculator
-Poocoin Balance Calculator for wallet tx
+A simple userscript to calculate balance for tokens in poocoin charts wallet tx
+![example](https://i.imgur.com/XyoqCOv.png)
